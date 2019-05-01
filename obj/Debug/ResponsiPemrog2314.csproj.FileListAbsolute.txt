@@ -1,0 +1,5 @@
+F:\Project\MarathonC\Aryo\ResponsiPemrog2314\bin\Debug\ResponsiPemrog2314.exe
+F:\Project\MarathonC\Aryo\ResponsiPemrog2314\bin\Debug\ResponsiPemrog2314.pdb
+F:\Project\MarathonC\Aryo\ResponsiPemrog2314\obj\Debug\ResponsiPemrog2314.csprojResolveAssemblyReference.cache
+F:\Project\MarathonC\Aryo\ResponsiPemrog2314\obj\Debug\ResponsiPemrog2314.exe
+F:\Project\MarathonC\Aryo\ResponsiPemrog2314\obj\Debug\ResponsiPemrog2314.pdb
